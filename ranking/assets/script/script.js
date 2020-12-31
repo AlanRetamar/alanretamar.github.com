@@ -12,7 +12,7 @@ links.forEach(function(link) {
       content.classList.add("animate__bounceOutUp")
 
       setTimeout(function () {
-        location.href = "/"
+        location.href = "/ranking"
       }, 600)
     })
 }) 
