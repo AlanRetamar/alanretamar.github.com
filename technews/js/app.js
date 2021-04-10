@@ -9,6 +9,6 @@ ScrollReveal().reveal('.news-cards',{ delay:500 });
 ScrollReveal().reveal('.card-banner',{ delay:500 });
 ScrollReveal().reveal('.card-banner-two',{ delay:500 });
 
-// setTimeout(function () {
-//   location.href = "/technews"
-// }, 600)
+setTimeout(function () {
+  location.href = "/technews"
+}, 600)
