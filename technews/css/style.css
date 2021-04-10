@@ -79,7 +79,7 @@ hr {
 /* SHOW CASE */
 .showcase {
   height: 550px;
-  background-image: url(img/showcase2-min.jpg);
+  background-image: url(../img/showcase2-min.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
